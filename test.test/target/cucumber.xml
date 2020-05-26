@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.082574">
+<testcase classname="search Wikipedia" name="direct search article" time="0.082574">
+<system-out><![CDATA[Given Enter search term 'Cucumber'..........................................passed
+When Do search..............................................................passed
+Then Single result is shown for 'Cucumber'..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
